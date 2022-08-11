@@ -1,1 +1,1 @@
-mapty-daniel.netlify.app
+https://mapty-daniel.netlify.app/
